@@ -4,6 +4,33 @@
     box-sizing: border-box;
 }
 h2{
-    margin-top: 30px;
-    margin-left: 50%;
+    text-align: center;
+    margin-top: 40px;
+}
+.PerD{
+    margin-top: 50px;
+    text-indent: 1%;
+    color: white;
+    background-color: black;
+}
+
+table{
+    margin-left: 10%;
+    margin-right: 10%;
+    width: 99%;
+    border: 1px solid black;
+}
+
+table, tr, .PerD{
+    margin: 10px;
+}
+
+.sp{
+    text-indent: 5px;
+}
+
+.ud{
+    border-bottom: 1px solid black;
+    text-align: left;
+    width: 35%;
 }
