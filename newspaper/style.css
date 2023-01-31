@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    border: 1px solid rgb(255, 255, 255);
+    margin: 20px 20px 20px 20px;
+    width: 40%;
+    border-radius: 10px 0 0 10px;
+    box-shadow: 5px 5px 5px 50px solid gray;
+}
+h1{
+    font-size: 100px;
+    text-align: center;
+}
+h2{ 
+    font-size: medium;
+    font-weight: bold;
+    font-weight: 100;
+    text-align: center;
+
+}
+.bar{
+    background-color: rgb(89, 145, 228);
+    margin: 10px 10px 0px 10px;
+}
+
+.lorem1{
+    color: white;
+    width: 70%;
+    text-align: center;
+    font-size: large;
+}
+
+.lorem2{
+    color: white;
+    font-size: 10px;
+    text-align: center;
+}
+
+.sit1{
+    font-size: 28px;
+}
+
+.sit2{
+    font-size: 15px;
+    color: yellow;
+}
+
+h3{
+    font-size: 40px;
+    text-align: center;
+}
