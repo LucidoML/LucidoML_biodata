@@ -1,55 +1,130 @@
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-body{
+body {
     border: 1px solid rgb(255, 255, 255);
     margin: 20px 20px 20px 20px;
     width: 40%;
     border-radius: 10px 0 0 10px;
     box-shadow: 5px 5px 5px 50px solid gray;
 }
-h1{
+
+h1 {
     font-size: 100px;
     text-align: center;
 }
-h2{ 
+
+h2 {
     font-size: medium;
     font-weight: bold;
     font-weight: 100;
     text-align: center;
 
 }
-.bar{
+
+.bar {
     background-color: rgb(89, 145, 228);
     margin: 10px 10px 0px 10px;
 }
 
-.lorem1{
+.bar1 {
+    margin: 3px 10px 0 10px;
+}
+
+.bar2 {
+    margin: 5px 10px 0 10px;
+    border-top: 1px solid gray;
+}
+
+.bar3{
+    background-color: gray;
+    margin: 0 10px 0 10px;
+}
+
+.lorem1 {
     color: white;
     width: 70%;
     text-align: center;
     font-size: large;
 }
 
-.lorem2{
+.lorem2 {
     color: white;
     font-size: 10px;
     text-align: center;
 }
 
-.sit1{
+.sit1 {
     font-size: 28px;
 }
 
-.sit2{
+.sit2 {
     font-size: 15px;
     color: yellow;
 }
 
-h3{
+h3 {
     font-size: 40px;
     text-align: center;
+}
+
+.pic {
+    width: 430px;
+    height: 430px;
+    background-color: gray;
+}
+
+.sit3 {
+    color: yellow;
+}
+
+.sit4 {}
+
+.L1 {
+    width: 100px;
+}
+
+.L2 {
+    width: 100px;
+}
+.L3 {
+    border-right: 2px solid rgb(165, 158, 158);
+}
+
+.par1 {
+    margin-right: 5px;
+}
+.par2 {
+    font-size: 10px;
+    margin-right: 5px;
+}
+
+.F1 {
+    border-right: 1px solid gray;
+    width: 50px;
+}
+
+.box {
+    width: 60%;
+}
+
+.Lbar {
+    border-top: 2px solid rgb(165, 158, 158);
+    border-bottom: 2px solid rgb(165, 158, 158);
+    text-align: left;
+    font-size: 10px;
+    font-weight: 100;
+}
+
+.Tbar {
+    font-weight: 600;
+    font-size: 12px;
+}
+
+.bar3 {
+    background-color: rgb(255, 221, 192);
+    border-right: 1px solid black;
 }
