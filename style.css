@@ -1,40 +1,69 @@
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
-h2{
+
+h2 {
     text-align: center;
-    margin-top: 40px;
+    margin-top: 60px;
+    margin-bottom: 50px;
 }
-.PerD{
+
+.bio {
+    width: 870px;
+}
+
+.id {
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+    margin-top: -120px;
+    margin-right: 5%;
+    float: right;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.PerD {
     margin-top: 50px;
     text-indent: 1%;
     color: white;
     background-color: black;
 }
 
-table{
-    margin-left: 30%;
-    margin-right: 30%;
-    width: 99%;
-    border: 1px solid black;
+.tbl {
+    width: 98%;
+    border: 2px solid black;
 }
 
-table, tr, .PerD{
+table,
+tr,
+.PerD {
     margin: 10px;
 }
 
-.sp{
+.sp {
     text-indent: 0px;
 }
 
-.ud{
+.sp1 {
+    border-bottom: 1px solid black;
+    width: 70%;
+}
+
+.col {
+    width: 152px;
+}
+
+.ud {
     border-bottom: 1px solid black;
     text-align: left;
     width: 25%;
 }
 
+<<<<<<< HEAD
 div{
     border: 1px solid black;
     font-size: 15px;
@@ -45,4 +74,26 @@ div{
     height: 100px;
     width: 100px;
     margin-right: 21%;
+=======
+.data1 {
+    width: 50px;
+}
+
+.parent {
+    width: 80%;
+}
+
+.td1 {
+    width: 80%;
+    border: 2px solid black;
+}
+
+p {
+    text-align: center;
+    margin-right: -170px;
+}
+
+.fp {
+    border-top: 1px solid black;
+>>>>>>> d062e2324e69278f4f59a3b3ad400aaa1fec0a0e
 }
