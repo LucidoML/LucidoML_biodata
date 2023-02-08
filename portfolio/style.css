@@ -102,6 +102,12 @@ p {
     background-color: whitesmoke;
 }
 
+.mycontainer {
+    color: black;
+    font-size: 100px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
 .fourthbox {
     width: 1800px;
     height: 900px;
@@ -110,6 +116,22 @@ p {
     margin-left: auto;
     margin-right: auto;
     background-color: rgb(37, 34, 34);
+}
+
+img {
+    margin-top: 30px;
+    padding: 0 12px;
+    width: 400px;
+}
+
+button {
+    width: 250px;
+    height: 60px;
+    font-size: 35px;
+    border: none;
+    margin: 30px;
+    background-color: lightblue;
+    border-radius: 10px;
 }
 
 .fifthbox {
