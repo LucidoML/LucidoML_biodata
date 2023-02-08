@@ -1,5 +1,59 @@
-* {
+*{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+}
+
+body{
+    background-color: black;
+}
+
+.firstbox{
+    width: 1800px;
+    height: 900px;
+    align-items: center;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.5)),url('itsme.jpg');
+}
+
+.secondbox{
+    width: 1800px;
+    height: 500px;
+    align-items: center;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(44, 40, 40);
+}
+
+.thirdbox{
+    width: 1800px;
+    height: 900px;
+    align-items: center;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: whitesmoke;
+}
+
+.fourthbox{
+    width: 1800px;
+    height: 900px;
+    align-items: center;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(37, 34, 34);
+}
+
+.fifthbox{
+    width: 1800px;
+    height: 150px;
+    align-items: center;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(94, 91, 91);
 }

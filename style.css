@@ -63,7 +63,6 @@ tr,
     width: 25%;
 }
 
-<<<<<<< HEAD
 div{
     border: 1px solid black;
     font-size: 15px;
@@ -74,7 +73,8 @@ div{
     height: 100px;
     width: 100px;
     margin-right: 21%;
-=======
+}
+
 .data1 {
     width: 50px;
 }
@@ -95,5 +95,4 @@ p {
 
 .fp {
     border-top: 1px solid black;
->>>>>>> d062e2324e69278f4f59a3b3ad400aaa1fec0a0e
 }
