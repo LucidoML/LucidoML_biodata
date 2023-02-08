@@ -8,6 +8,12 @@ body {
     background-color: black;
 }
 
+.con {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
 .firstbox {
     width: 1800px;
     height: 900px;
@@ -18,27 +24,31 @@ body {
     background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.5)), url('itsme.jpg');
 }
 
-.part1 {
-    align-items: center;
-    justify-content: center;
-    display: flex;
-}
-
 h1 {
     margin-top: 50px;
     margin-right: 230px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 60px;
+    color: white;
 }
 
 h1 span {
-    color: green;
+    color: rgb(25, 211, 25);
+}
+
+.highlight {
+    margin-top: 50px;
+    margin-right: 50px;
+    margin-left: 40px;
+    color: rgb(25, 211, 25);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 h2 {
     margin-top: 50px;
     margin-right: 50px;
     margin-left: 40px;
+    color: white;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
@@ -68,6 +78,18 @@ h3:nth-of-type(2) {
     margin-left: auto;
     margin-right: auto;
     background-color: rgb(44, 40, 40);
+}
+
+.aboutcontainer {
+    font-size: 120px;
+    margin-bottom: 30px;
+}
+
+p {
+    font-size: 40px;
+    color: white;
+    text-align: center;
+    margin: 0 180px;
 }
 
 .thirdbox {
