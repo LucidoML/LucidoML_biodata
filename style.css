@@ -10,10 +10,11 @@ h2 {
     margin-bottom: 50px;
 }
 
-.bio {
+.bio{
     width: 870px;
-}
+    border: none;
 
+}
 .id {
     border: 1px solid black;
     width: 100px;
@@ -42,6 +43,7 @@ table,
 tr,
 .PerD {
     margin: 10px;
+    text-align: left;
 }
 
 .sp {
@@ -95,4 +97,8 @@ p {
 
 .fp {
     border-top: 1px solid black;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 241f1cc6b22e483d0f300c0fab9eb5701acd5de3
