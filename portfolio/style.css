@@ -129,9 +129,84 @@ button {
     height: 60px;
     font-size: 35px;
     border: none;
-    margin: 30px;
+    margin: 50px 0 20px 0;
     background-color: lightblue;
     border-radius: 10px;
+}
+
+.contactcontainer {
+    font-size: 100px;
+}
+
+.container {
+    margin: auto;
+    width: 1400px;
+    height: 700px;
+}
+
+.name {
+    width: 700px;
+    height: 100px;
+    border: 1px solid red;
+}
+
+.logo {
+    width: 80px;
+    margin-top: 50px;
+}
+
+h4:nth-of-type(1) {
+    color: white;
+    margin-top: 50px;
+    font-size: 30px;
+}
+
+.answer {
+    position: relative;
+    background-color: beige;
+    width: 550px;
+    height: 70px;
+    margin: 31px 0 0 80px;
+    border-radius: 7px;
+}
+
+.answer1 {
+    position: relative;
+    background-color: beige;
+    width: 550px;
+    height: 70px;
+    margin: 31px 0 0 103px;
+    border-radius: 7px;
+}
+
+.answer2 {
+    position: relative;
+    background-color: beige;
+    width: 550px;
+    height: 300px;
+    margin: 31px 0 0 110px;
+    border-radius: 7px;
+}
+
+
+h5:nth-of-type(1) {
+    padding: 17px;
+    font-size: 30px;
+}
+
+.icon {
+    width: 250px;
+    margin-bottom: 50px;
+}
+
+.download {
+    margin-bottom: 80px;
+    margin-right: 260px;
+}
+
+.submit {
+    margin-bottom: 80px;
+    margin-right: 100px;
 }
 
 .fifthbox {
