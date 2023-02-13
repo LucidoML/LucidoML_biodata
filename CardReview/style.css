@@ -1,0 +1,92 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+body {
+    background-color: hsl(333, 46%, 75%);
+
+
+}
+
+.layer1 {
+    background-color: white;
+    width: 375px;
+    height: 700px;
+    margin-top: 150px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+div {
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+}
+
+h1 {
+
+    color: hsl(300, 43%, 22%);
+    text-align: center;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 70px;
+
+}
+
+p {
+    text-align: center;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 30px;
+}
+
+.box1 {
+    width: 375px;
+    height: 500px;
+    border-color: black;
+    display: flex;
+    flex-direction: column;
+
+}
+
+
+.box2 {
+    width: 375px;
+    height: 500px;
+    border-color: black;
+    display: flex;
+    flex-direction: column;
+}
+
+.star1 {
+    text-align: center;
+    flex-direction: row;
+    padding-right: 1rem;
+
+}
+
+svg {
+    text-align: center;
+    margin-right: 0.4rem;
+
+}
+
+h2 {
+    margin: auto;
+    font-size: 14px;
+    font-style: bold;
+
+}
+
+
+.box3 {
+    width: 375px;
+    height: 500px;
+    border-color: black;
+
+}
