@@ -182,9 +182,7 @@ h3:nth-of-type(2) {
     line-height: 1.2rem;
 }
 
-div {
-    border: 1px solid red;
-}
+
 
 
 
@@ -202,7 +200,7 @@ div {
     }
 
     .first-paragraph {
-        text-align: center;
+        text-align: left;
         color: hsl(303, 10%, 53%);
         line-height: 1.3rem;
         font-size: 20px;
@@ -226,7 +224,7 @@ div {
     }
 
     .box2 {
-        width: 650px;
+        width: 1000px;
         height: 400px;
         align-items: center;
         justify-content: center;
@@ -275,7 +273,7 @@ div {
     }
 
     .box3 {
-        width: 1200px;
+        width: 1550px;
         height: 600px;
         align-items: center;
         justify-content: center;
@@ -287,8 +285,8 @@ div {
         width: 300px;
         height: 180px;
         margin-top: 10px;
-        margin-right: 25px;
-        margin-bottom: 1rem;
+        margin-right: 30px;
+        margin-bottom: 300px;
         border-radius: 10px;
 
     }
@@ -298,7 +296,7 @@ div {
         height: 180px;
         margin-right: 25px;
         margin-top: 50px;
-        margin-bottom: 1rem;
+        margin-bottom: 280px;
         border-radius: 10px;
 
     }
@@ -308,7 +306,7 @@ div {
         height: 180px;
         margin-right: 25px;
         border-radius: 10px;
-        margin-bottom: 3rem;
+        margin-bottom: 280px;
         margin-top: 120px;
 
     }
