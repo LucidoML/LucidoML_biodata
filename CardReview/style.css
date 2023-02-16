@@ -186,7 +186,7 @@ h3:nth-of-type(2) {
 
 
 
-@media only screen and (max-width: 1440px) {
+@media only screen and (min-width: 376px) {
     .layer {
         width: 1440px;
     }
